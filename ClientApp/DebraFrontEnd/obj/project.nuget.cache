@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0QIyXztulB0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\DebraFrontEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilakshana\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

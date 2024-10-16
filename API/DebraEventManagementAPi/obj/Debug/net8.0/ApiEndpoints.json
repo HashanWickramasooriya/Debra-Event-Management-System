@@ -1,0 +1,226 @@
+[
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.EventController",
+    "Method": "CreateEvent",
+    "RelativePath": "api/Event",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newEvent",
+        "Type": "DebraEventManagementAPi.Models.Event",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.EventController",
+    "Method": "GetEvent",
+    "RelativePath": "api/Event/{EventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.EventController",
+    "Method": "GetEventsByPartner",
+    "RelativePath": "api/Event/partner/{PartnerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PartnerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.PartnerController",
+    "Method": "GetPartner",
+    "RelativePath": "api/Partner/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.PartnerController",
+    "Method": "Login",
+    "RelativePath": "api/Partner/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "DebraEventManagementAPi.Controllers.PartnerController\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.PartnerController",
+    "Method": "Register",
+    "RelativePath": "api/Partner/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "partner",
+        "Type": "DebraEventManagementAPi.Models.Partner",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.SaleController",
+    "Method": "RecordSale",
+    "RelativePath": "api/Sale",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sellRequest",
+        "Type": "DebraEventManagementAPi.Controllers.SellRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.SaleController",
+    "Method": "GetSaleById",
+    "RelativePath": "api/Sale/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.SaleController",
+    "Method": "GetTotalEarningsByEvent",
+    "RelativePath": "api/Sale/event/{EventId}/earnings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.SaleController",
+    "Method": "GetSalesByPartner",
+    "RelativePath": "api/Sale/partner/{PartnerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PartnerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.TicketController",
+    "Method": "SetTicketDetails",
+    "RelativePath": "api/Ticket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ticketRequest",
+        "Type": "DebraEventManagementAPi.Controllers.TicketRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.TicketController",
+    "Method": "GetTicketsByEvent",
+    "RelativePath": "api/Ticket/event/{EventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.TicketController",
+    "Method": "GetSoldTicketsByEvent",
+    "RelativePath": "api/Ticket/event/{EventId}/sold",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebraEventManagementAPi.Controllers.TicketController",
+    "Method": "SellTicket",
+    "RelativePath": "api/Ticket/sell/{TicketId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TicketId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

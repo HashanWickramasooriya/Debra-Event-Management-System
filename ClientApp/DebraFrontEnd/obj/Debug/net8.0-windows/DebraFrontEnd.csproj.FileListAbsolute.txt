@@ -1,0 +1,80 @@
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.exe
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.deps.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.runtimeconfig.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.pdb
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.csproj.AssemblyReference.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AddEvent.resources
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AddTicket.resources
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AdminHome.resources
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Form1.resources
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Login.resources
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.PartnerHome.resources
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Reguster.resources
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.SellTicket.resources
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.csproj.GenerateResource.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AssemblyInfoInputs.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AssemblyInfo.cs
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.csproj.CoreCompileInputs.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFro.DDF15D83.Up2Date
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\refint\DebraFrontEnd.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.pdb
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.genruntimeconfig.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\ref\DebraFrontEnd.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.exe
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.deps.json
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.runtimeconfig.json
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.pdb
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.csproj.AssemblyReference.cache
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AddEvent.resources
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AddTicket.resources
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AdminHome.resources
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Form1.resources
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Login.resources
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.PartnerHome.resources
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Properties.Resources.resources
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Reguster.resources
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.SellTicket.resources
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.csproj.GenerateResource.cache
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AssemblyInfoInputs.cache
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AssemblyInfo.cs
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.csproj.CoreCompileInputs.cache
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFro.DDF15D83.Up2Date
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\refint\DebraFrontEnd.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.pdb
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.genruntimeconfig.cache
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\ref\DebraFrontEnd.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.csproj.AssemblyReference.cache
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\refint\DebraFrontEnd.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.pdb
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.exe
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.deps.json
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.runtimeconfig.json
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\DebraFrontEnd.pdb
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AddEvent.resources
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AddTicket.resources
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AdminHome.resources
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Form1.resources
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Login.resources
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.PartnerHome.resources
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Properties.Resources.resources
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.Reguster.resources
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.SellTicket.resources
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.csproj.GenerateResource.cache
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AssemblyInfoInputs.cache
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.AssemblyInfo.cs
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFro.DDF15D83.Up2Date
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\DebraFrontEnd.genruntimeconfig.cache
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\ClientApp\DebraFrontEnd\obj\Debug\net8.0-windows\ref\DebraFrontEnd.dll

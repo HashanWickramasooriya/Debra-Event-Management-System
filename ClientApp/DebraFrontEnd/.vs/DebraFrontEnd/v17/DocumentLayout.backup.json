@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|c:\\users\\ilakshana\\desktop\\debra evenet management 2\\clientapp\\debrafrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\sellticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|solutionrelative:sellticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|solutionrelative:adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\reguster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|solutionrelative:reguster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|c:\\users\\ilakshana\\desktop\\debra evenet management 2\\clientapp\\debrafrontend\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|solutionrelative:addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\addticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|solutionrelative:addticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\partnerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BAFDC07-F1DE-4B36-BDEE-66204351A6FF}|DebraFrontEnd.csproj|solutionrelative:partnerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reguster.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\Reguster.cs",
+              "RelativeDocumentMoniker": "Reguster.cs",
+              "ToolTip": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\Reguster.cs [Design]",
+              "RelativeToolTip": "Reguster.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:53:27.715Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:09:56.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:00:41.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:14:41.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:10:53.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PartnerHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\PartnerHome.cs",
+              "RelativeDocumentMoniker": "PartnerHome.cs",
+              "ToolTip": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\PartnerHome.cs [Design]",
+              "RelativeToolTip": "PartnerHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:58:05.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SellTicket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\SellTicket.cs",
+              "RelativeDocumentMoniker": "SellTicket.cs",
+              "ToolTip": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\SellTicket.cs [Design]",
+              "RelativeToolTip": "SellTicket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:53:25.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\AdminHome.cs",
+              "RelativeDocumentMoniker": "AdminHome.cs",
+              "ToolTip": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\AdminHome.cs [Design]",
+              "RelativeToolTip": "AdminHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:17:33.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTicket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\AddTicket.cs",
+              "RelativeDocumentMoniker": "AddTicket.cs",
+              "ToolTip": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\AddTicket.cs [Design]",
+              "RelativeToolTip": "AddTicket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:19:54.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEvent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\AddEvent.cs",
+              "RelativeDocumentMoniker": "AddEvent.cs",
+              "ToolTip": "C:\\Users\\ilakshana\\Desktop\\Debra Evenet Management 2\\ClientApp\\DebraFrontEnd\\AddEvent.cs [Design]",
+              "RelativeToolTip": "AddEvent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:25:05.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.csproj.AssemblyReference.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.AssemblyInfoInputs.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.AssemblyInfo.cs
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.csproj.CoreCompileInputs.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.MvcApplicationPartsAssemblyInfo.cs
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.MvcApplicationPartsAssemblyInfo.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\appsettings.Development.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\appsettings.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.exe
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.deps.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.runtimeconfig.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.pdb
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Azure.Core.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Azure.Identity.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Humanizer.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.CodeDom.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.DebraEventManagementAPi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.build.DebraEventManagementAPi.props
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DebraEventManagementAPi.props
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DebraEventManagementAPi.props
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\scopedcss\bundle\DebraEventManagementAPi.styles.css
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEve.7D4DAD61.Up2Date
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\refint\DebraEventManagementAPi.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.pdb
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.genruntimeconfig.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\ref\DebraEventManagementAPi.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\appsettings.Development.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\appsettings.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.exe
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.deps.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.runtimeconfig.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.pdb
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Azure.Core.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Azure.Identity.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Humanizer.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.CodeDom.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.csproj.AssemblyReference.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.AssemblyInfoInputs.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.AssemblyInfo.cs
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.csproj.CoreCompileInputs.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.MvcApplicationPartsAssemblyInfo.cs
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.MvcApplicationPartsAssemblyInfo.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.DebraEventManagementAPi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.build.DebraEventManagementAPi.props
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DebraEventManagementAPi.props
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DebraEventManagementAPi.props
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\scopedcss\bundle\DebraEventManagementAPi.styles.css
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEve.7D4DAD61.Up2Date
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\refint\DebraEventManagementAPi.dll
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.pdb
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.genruntimeconfig.cache
+E:\Assignments\June 2024\Completed\SOC Architecture c#.net assignemnt\My Projects\Debra Evenet Management 2\Debra Evenet Management\API\DebraEventManagementAPi\obj\Debug\net8.0\ref\DebraEventManagementAPi.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\appsettings.Development.json
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\appsettings.json
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.exe
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.deps.json
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.runtimeconfig.json
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.pdb
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Azure.Core.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Azure.Identity.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Humanizer.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.CodeDom.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.csproj.AssemblyReference.cache
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.AssemblyInfoInputs.cache
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.AssemblyInfo.cs
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.csproj.CoreCompileInputs.cache
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.MvcApplicationPartsAssemblyInfo.cs
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.MvcApplicationPartsAssemblyInfo.cache
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.DebraEventManagementAPi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.build.DebraEventManagementAPi.props
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DebraEventManagementAPi.props
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DebraEventManagementAPi.props
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\scopedcss\bundle\DebraEventManagementAPi.styles.css
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEve.7D4DAD61.Up2Date
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\refint\DebraEventManagementAPi.dll
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.pdb
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.genruntimeconfig.cache
+E:\Assignments\August 2024\SOC\Debra\Debra Evenet Management 2\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\ref\DebraEventManagementAPi.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\appsettings.json
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.exe
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.deps.json
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.runtimeconfig.json
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\DebraEventManagementAPi.pdb
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.csproj.AssemblyReference.cache
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.AssemblyInfoInputs.cache
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.AssemblyInfo.cs
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.csproj.CoreCompileInputs.cache
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.DebraEventManagementAPi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.build.DebraEventManagementAPi.props
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DebraEventManagementAPi.props
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DebraEventManagementAPi.props
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\scopedcss\bundle\DebraEventManagementAPi.styles.css
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEve.7D4DAD61.Up2Date
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\refint\DebraEventManagementAPi.dll
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.pdb
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\DebraEventManagementAPi.genruntimeconfig.cache
+C:\Users\ilakshana\Desktop\Debra Evenet Management 2\API\DebraEventManagementAPi\obj\Debug\net8.0\ref\DebraEventManagementAPi.dll
